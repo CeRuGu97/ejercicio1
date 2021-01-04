@@ -16,7 +16,7 @@ class Navbar extends React.Component {
                                     <Link className="nav-link active" aria-current="page" to="#">Home</Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link className="nav-link" to="#">Link</Link>
+                                    <Link className="nav-link" to="#">Link's</Link>
                                 </li>
                                 <li className="nav-item dropdown">
                                     <Link className="nav-link dropdown-toggle" to="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
